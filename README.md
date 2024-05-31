@@ -9,6 +9,7 @@
 ### My GitHub Activity
 
 I regularly explore and contribute to projects in the tech community. Here are some repositories and stars from my activity:
+
 [org:DIAGNAL](https://github.com/diagnal) Check out some of the exciting open-source projects from our team.
 
 ### Let's Connect!
